@@ -17,4 +17,4 @@ Dentro del repositorio del GIT se encuentra:
 * Ridgeline Chart.pdf : Representa el gráfico Ridgeline
 * Scatterplot: Representa el diagrama de dispersión.
 
-Finalmente, se adjunta el código de R utilizado para desarrolar las visualizaciones del Ridgeline Chart y el Scatterplot con el fichero **Visualization Pec2.R**.
+Finalmente, se adjunta el código de R utilizado para desarrolar las visualizaciones del Ridgeline Chart y el Scatterplot con el fichero **Visualization PEC2.R**.
